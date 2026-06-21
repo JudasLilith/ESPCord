@@ -1,0 +1,4 @@
+switch:
+  - platform: gpio
+    name: "Octoprint-Raspi-Zero2W"
+    pin: GPIO10
