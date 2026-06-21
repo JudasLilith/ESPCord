@@ -657,6 +657,7 @@
 		(property "Reference" "C1"
 			(at -1.74 1 90)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "b6adeb49-021a-48fc-b08c-741725d45477")
 			(effects
 				(font
@@ -669,6 +670,7 @@
 		(property "Value" "10uF_0805_16V_lowESR"
 			(at 0.64 1 90)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "6f20ba24-1697-462a-b0d1-1fc8df5ff3ba")
 			(effects
 				(font
@@ -1641,6 +1643,7 @@
 		(property "Reference" "C2"
 			(at -1.74 1 90)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "7aef025d-adfe-4289-a89c-ab3d8ecf3fb4")
 			(effects
 				(font
@@ -1651,8 +1654,9 @@
 			)
 		)
 		(property "Value" "10uF_0805_16V_lowESR"
-			(at 0.64 1 90)
+			(at -7.3 3.6 90)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "e8f8731f-54e8-49df-a183-35f7b18badab")
 			(effects
 				(font
@@ -2324,7 +2328,7 @@
 		(property "Reference" "J1"
 			(at 0 -2.54 90)
 			(layer "B.Fab")
-			(uuid "df2304bb-4394-43ae-9cba-7c9e40ca5e8c")
+			(uuid "535fdc4d-0751-4707-88f4-9efb74d75856")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -2337,7 +2341,7 @@
 		(property "Value" "USB_C_Receptacle"
 			(at 0 -3.81 90)
 			(layer "B.Fab")
-			(uuid "5932dda9-4f5f-4573-a8ab-c4210e76ed47")
+			(uuid "6b3a56d9-dba8-41f7-9df8-9f0cf7a8e198")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -2352,7 +2356,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "5713638c-5926-4bdd-9d4a-89da6892826c")
+			(uuid "2574b17d-0f9d-46cb-8015-52a3ebfded9d")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2366,7 +2370,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "2ff9c6f6-48fd-4a36-a190-08b0f2138114")
+			(uuid "e3c61aed-e049-4461-aa6f-920ae319d510")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2957,8 +2961,8 @@
 		(uuid "e4893bfb-6de8-4dff-ac31-f5e289c01fda")
 	)
 	(gr_circle
-		(center 157.9 119.6)
-		(end 158 121.2)
+		(center 157.9 120.5)
+		(end 158 122)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -2968,7 +2972,7 @@
 		(uuid "9e207cc4-ea32-40d6-a3a6-1502e5b8e03a")
 	)
 	(gr_circle
-		(center 158.5 94.8)
+		(center 158 94.8)
 		(end 157.8 96.4)
 		(stroke
 			(width 0.05)
@@ -2979,19 +2983,8 @@
 		(uuid "05d16477-a416-47a0-ad65-e96cf0e90f62")
 	)
 	(gr_circle
-		(center 170.8 119.6)
-		(end 169.6 120.9)
-		(stroke
-			(width 0.05)
-			(type default)
-		)
-		(fill no)
-		(layer "Edge.Cuts")
-		(uuid "fa55b95e-5a30-4c73-8ce6-b633e28ed096")
-	)
-	(gr_circle
-		(center 170.9 94.8)
-		(end 169.5 95.2)
+		(center 171.5 94.5)
+		(end 170.1 94.9)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -2999,6 +2992,17 @@
 		(fill no)
 		(layer "Edge.Cuts")
 		(uuid "079f18dc-9f5d-4450-b9b3-02077b91ff3d")
+	)
+	(gr_circle
+		(center 171.5 120.5)
+		(end 170 120.9)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "Edge.Cuts")
+		(uuid "fa55b95e-5a30-4c73-8ce6-b633e28ed096")
 	)
 	(gr_text "VIN|GND\n\n"
 		(at 159.3 121.7 0)
