@@ -6,9 +6,10 @@ K1,1,SRD-03VDC-SL-C,0.41,JLCImport:SRD-03VDC-SL-C,https://jlcpcb.com/partdetail/
 U1,1,ESP32-C3,1.83,PCM_fab:QFN-32_EP_5x5_Pitch0.5mm,https://jlcpcb.com/partdetail/EspressifSystems-ESP32C3/C2838500,
 U2,1,AMS1117-3_3_C347222,0.01,PCM_Package_TO_SOT_SMD_AKL:SOT-223-5,https://jlcpcb.com/partdetail/323882-AMS1117_33/C347222,
 ,,Assembly Costs,34.63,N/A,"the standard pcba cost for 5 of these boards, I'll add the breakdown if you want me to.",
-,4,M3 Bolts 10mm ,19.99,N/A,https://www.amazon.com/Fgruh-M2-M3-M4-M5/dp/B0FGX9JGC5?crid=2NT24WAXE91QV&dib=eyJ2IjoiMSJ9.bTnvM_SQYLnYjyxSTAjjl1uodreFeuz-DqdsShjjYoTxPRmYdLp0gsPrWAr6kup0ESoJtdRbpmtmB9dMdnlQeEkzhxx_JS9wCRuVgj6k9fjj47v8lrjGXZ4dK8EqRT23Y3vk3vRO8XoYZ6VclKd2-avzBNO6XllpkOqiz-HR-MxHtlevnvKI35uXiU8fplah3sifPqZ165s9ZiDBFIUkXdSgNPQKdu1qo5lP5ZVZgW8.DFK3ayGbvIMHyTdY6YLHADBtloOBhNXhUbNScAJskyk&dib_tag=se&keywords=m2%2Bbolt%2Bsocket%2Bhead%2Bassortment&qid=1781308895&sprefix=m2%2Bbolt%2Bscket%2Bhead%2Bassortment%2Caps%2C143&sr=8-5&th=1,"realistically, you're gonna buy bolts and screws in bulk anyways."
+,,Bare PCB cost,2,N/A,With Special 1st time deal,"realistically, you're gonna buy bolts and screws in bulk anyways."
+,4,M3 Bolts 10mm ,19.99,N/A,https://www.amazon.com/Fgruh-M2-M3-M4-M5/dp/B0FGX9JGC5?crid=2NT24WAXE91QV&dib=eyJ2IjoiMSJ9.bTnvM_SQYLnYjyxSTAjjl1uodreFeuz-DqdsShjjYoTxPRmYdLp0gsPrWAr6kup0ESoJtdRbpmtmB9dMdnlQeEkzhxx_JS9wCRuVgj6k9fjj47v8lrjGXZ4dK8EqRT23Y3vk3vRO8XoYZ6VclKd2-avzBNO6XllpkOqiz-HR-MxHtlevnvKI35uXiU8fplah3sifPqZ165s9ZiDBFIUkXdSgNPQKdu1qo5lP5ZVZgW8.DFK3ayGbvIMHyTdY6YLHADBtloOBhNXhUbNScAJskyk&dib_tag=se&keywords=m2%2Bbolt%2Bsocket%2Bhead%2Bassortment&qid=1781308895&sprefix=m2%2Bbolt%2Bscket%2Bhead%2Bassortment%2Caps%2C143&sr=8-5&th=1,
 ,2,M2 Bolts 25mm,0,N/A,from the bolts & nuts set above,
 ,4,M3 Nuts,0,N/A,from the bolts & nuts set above,
 ,2,m2 Nuts,0,N/A,from the bolts & nuts set above,
 ,,,,,,
-,,Total:,54.63,(if one is buying the bolts and nuts kit),,
+,,Total:,56.63,(if one is buying the bolts and nuts kit),,
