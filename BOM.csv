@@ -1,10 +1,10 @@
 Reference,Qty,Value,Price,Footprint,Datasheet/source,Misc. info
 "C1,C2",2,10uF_0805_16V_lowESR,0.091,PCM_4ms_Capacitor:C_0805,https://jlcpcb.com/partdetail/TORCH-CC0805X5R16V106KN/C53084528,Any Generic Capacitor with a 16V 0805 with 10uF would do.
-J1,1,USB_C_Receptacle,0.050,PCM_SparkFun-Connector:USB-C_16,https://jlcpcb.com/partdetail/DEALON-USB_TYPE_C006/C2927026,"got this from the sparkfun kicad library, so better install that from the addons."
-K1,1,SRD-03VDC-SL-C,0.41,JLCImport:SRD-03VDC-SL-C,https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Ningbo-Songle-Relay-SRD-03VDC-SL-C_C24585.pdf,
+J1,1,USB_C_Receptacle,0.05,PCM_SparkFun-Connector:USB-C_16,https://jlcpcb.com/partdetail/DEALON-USB_TYPE_C006/C2927026,"got this from the sparkfun kicad library, so better install that from the addons."
+K1,1,SRD-03VDC-SL-C,0.41,JLCImport:SRD-03VDC-SL-C,https://jlcpcb.com/partdetail/Ningbo_SongleRelay-SRD_03VDC_SLC/C24585,
 "R3,R4",2,5.1K,0.02,PCM_fab:R_1206,https://jlcpcb.com/partdetail/Ever_OhmsTech-CR1206J5K10P05Z/C881294,Just your typical 5.1K ohm resistor.
-U1,1,ESP32-C3,1.83,PCM_fab:QFN-32_EP_5x5_Pitch0.5mm,https://www.lcsc.com/datasheet/lcsc_datasheet_2312201733_Espressif-Systems-ESP32-C3_C2838500.pdf,
-U2,1,AMS1117-3_3_C347222,0.01,PCM_Package_TO_SOT_SMD_AKL:SOT-223-5,https://www.lcsc.com/datasheet/lcsc_datasheet_2409141623_UMW-Youtai-Semiconductor-Co---Ltd--AMS1117-3-3_C347222.pdf,
+U1,1,ESP32-C3,1.83,PCM_fab:QFN-32_EP_5x5_Pitch0.5mm,https://jlcpcb.com/partdetail/EspressifSystems-ESP32C3/C2838500,
+U2,1,AMS1117-3_3_C347222,0.01,PCM_Package_TO_SOT_SMD_AKL:SOT-223-5,https://jlcpcb.com/partdetail/323882-AMS1117_33/C347222,
 ,,,0,,,
 ,4,M3 Bolts 10mm ,19.99,N/A,https://www.amazon.com/Fgruh-M2-M3-M4-M5/dp/B0FGX9JGC5?crid=2NT24WAXE91QV&dib=eyJ2IjoiMSJ9.bTnvM_SQYLnYjyxSTAjjl1uodreFeuz-DqdsShjjYoTxPRmYdLp0gsPrWAr6kup0ESoJtdRbpmtmB9dMdnlQeEkzhxx_JS9wCRuVgj6k9fjj47v8lrjGXZ4dK8EqRT23Y3vk3vRO8XoYZ6VclKd2-avzBNO6XllpkOqiz-HR-MxHtlevnvKI35uXiU8fplah3sifPqZ165s9ZiDBFIUkXdSgNPQKdu1qo5lP5ZVZgW8.DFK3ayGbvIMHyTdY6YLHADBtloOBhNXhUbNScAJskyk&dib_tag=se&keywords=m2%2Bbolt%2Bsocket%2Bhead%2Bassortment&qid=1781308895&sprefix=m2%2Bbolt%2Bscket%2Bhead%2Bassortment%2Caps%2C143&sr=8-5&th=1,"realistically, you're gonna buy bolts and screws in bulk anyways."
 ,2,M2 Bolts 25mm,0,N/A,from the bolts & nuts set above,
